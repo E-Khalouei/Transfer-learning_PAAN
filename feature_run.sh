@@ -1,4 +1,4 @@
-# This script extracts feature embeddings from input audio data. The input is the audio data I have generated, and the output is a set of embeddings representing those features.
+# This script extracts feature embeddings from input audio data. The input is the audio data we have generated, and the output is a set of embeddings representing those features.
 
 # ------ Inference audio tagging result with pretrained model. ------
 MODEL_TYPE="Cnn14"
