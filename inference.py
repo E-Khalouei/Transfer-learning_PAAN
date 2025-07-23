@@ -1,4 +1,5 @@
 # This is inference.py from https://github.com/qiuqiangkong/audioset_tagging_cnn/blob/master/pytorch/inference.py, which we have modified for our project to use as a feature extractor.
+# Please download the entire PAAN folder and adjust the paths as needed. Only inference.py is included here, as this is where the main changes were made.
 import os
 import sys
 sys.path.insert(1, os.path.join(sys.path[0], '../utils'))
