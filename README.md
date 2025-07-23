@@ -18,7 +18,7 @@ In this project, I converted noisy scientific signals to audio format and used t
 
 4- **Generate embedding files** from your input data using the modified script. The size of each embedding is 2048.
 
-5- See Example.py for a demonstration of how to use the embedding files to train your own model. 
+5- See 'Example.py' for a demonstration of how to use the embedding files to train your own model. 
 
  
  
