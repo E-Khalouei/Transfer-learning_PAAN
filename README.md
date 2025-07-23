@@ -19,8 +19,6 @@ In this project, I converted noisy scientific signals to audio format and used t
 
 *Figure: Workflow from noisy signal to audio, leading to audio-based feature extraction using transfer learning.*
 
-![Project Workflow](https://github.com/user-attachments/assets/3c7ff148-6963-4b6d-adc8-b9bd2b61d710)
-
 
 
 
