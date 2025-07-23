@@ -1,3 +1,4 @@
+# This is inference.py from https://github.com/qiuqiangkong/audioset_tagging_cnn/blob/master/pytorch/inference.py, which we have modified for our project to use as a feature extractor.
 import os
 import sys
 sys.path.insert(1, os.path.join(sys.path[0], '../utils'))
