@@ -1,7 +1,6 @@
 # Transfer-learning_PAAN
 
-In this project, I converted noisy scientific signals to audio format and used the CNN14 pretrained model from PAAN as a feature extractor. This enables deep learning approaches for tasks such as classification or regression on noisy data. 
-
+In this project, I converted noisy scientific signals to audio format and used the CNN14 pretrained model from PAAN as a feature extractor.  
 
 ![Project Workflow](https://github.com/user-attachments/assets/b0df25c6-f1b1-48e4-9502-d2e4e84e7078)
 
