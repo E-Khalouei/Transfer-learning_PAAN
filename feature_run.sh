@@ -2,8 +2,8 @@
 
 # ------ Inference audio tagging result with pretrained model. ------
 MODEL_TYPE="Cnn14"
-CHECKPOINT_PATH="/PAAN/feature-extraction/audioset_tagging_cnn-master_fine-tuning/scripts/Cnn14_mAP=0.431.pth"      #The pretrained model that we used. You can download: https://zenodo.org/record/3987831
-AUDIO_DIR="/PAAN/feature-extraction/audioset_tagging_cnn-master_fine-tuning/scripts/data/GW_audio_32k_train_5000"
+CHECKPOINT_PATH="/PAAN/feature-extraction/audioset_tagging_cnn-master_fine-tuning/scripts/Cnn14_mAP=0.431.pth"    #The pretrained model utilized in this project is available for download at: https://zenodo.org/record/3987831
+AUDIO_DIR="/PAAN/feature-extraction/audioset_tagging_cnn-master_fine-tuning/scripts/data/GW_audio_32k_train_5000"  
 OUTPUT_DIR="/PAAN/feature-extraction/audioset_tagging_cnn-master_fine-tuning/scripts/data/embedding"
 INFERENCE_SCRIPT=/PAAN/feature-extraction/audioset_tagging_cnn-master_fine-tuning/pytorch/inference.py" 
 # Create output directory if it doesn't exist
